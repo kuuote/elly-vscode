@@ -1,0 +1,21 @@
+{
+    "name": "elly",
+    "displayName": "elly",
+    "description": "nostalgic brown theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "elly",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elly-color-theme.json"
+            }
+        ]
+    }
+}
