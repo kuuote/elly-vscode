@@ -1,6 +1,8 @@
 {
     "name": "elly",
     "displayName": "elly",
+	"publisher": "ulwlu",
+	"repository": "https://github.com/ulwlu/elly-vscode",
     "description": "nostalgic brown theme",
     "version": "1.0.0",
     "engines": {
