@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "elly"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# elly-vscode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<img width="1440" alt="ss 3" src="https://user-images.githubusercontent.com/41639488/103112135-9db73380-4696-11eb-9ea4-9cd37a6a6e11.png">
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Related Projects
 
-**Enjoy!**
+- https://github.com/ulwlu/elly.vim
+- https://github.com/ulwlu/elly-iterm2
+- https://github.com/ulwlu/elly-tmux
+- https://github.com/ulwlu/elly-simple-bar
+- https://github.com/ulwlu/elly-chrome
