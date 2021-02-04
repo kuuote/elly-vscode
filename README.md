@@ -2,7 +2,26 @@
 
 https://marketplace.visualstudio.com/items?itemName=ulwlu.elly
 
-<img width="1440" alt="ss 3" src="https://user-images.githubusercontent.com/41639488/103112135-9db73380-4696-11eb-9ea4-9cd37a6a6e11.png">
+<img alt="elly vscode" src="https://user-images.githubusercontent.com/41639488/106965665-458c4a80-6787-11eb-87e6-c70a42a3789f.png">
+
+# Recommend Settings
+
+```json
+    "material-icon-theme.folders.color": "#224249",
+    "material-icon-theme.folders.theme": "classic",
+    "material-icon-theme.saturation": 0.7,
+    "bracketPairColorizer.independentPairColors": [
+        ["()", ["#738C9C90"], "#810002"],
+        ["[]", ["#738C9C90"], "#810002"],
+        ["{}", ["#738C9C90"], "#810002"]
+    ],
+    "bracketPairColorizer.scopeLineCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : #738C9C80",
+        "opacity: 1"
+    ],
+```
 
 ## Related Projects
 
