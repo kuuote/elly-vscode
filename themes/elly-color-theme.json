@@ -251,7 +251,7 @@
             "scope": ["comment", "punctuation.definition.comment"],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#545759"
+                "foreground": "#2D3640"
             }
         },
         {
@@ -277,9 +277,14 @@
         },
         {
             "name": "Keyword, Storage",
-            "scope": ["keyword", "storage.type", "storage.modifier"],
+            "scope": [
+                "keyword",
+                "storage.type",
+                "storage.modifier",
+                "support.function"
+            ],
             "settings": {
-                "foreground": "#9B9257"
+                "foreground": "#63768A"
             }
         },
         {
@@ -319,7 +324,6 @@
                 "entity.name.function",
                 "meta.function-call",
                 "variable.function",
-                "support.function",
                 "keyword.other.special-method"
             ],
             "settings": {
