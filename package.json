@@ -4,7 +4,7 @@
   "publisher": "ulwlu",
   "repository": "https://github.com/ulwlu/elly-vscode",
   "description": "nostalgic brown theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.52.0"
   },
