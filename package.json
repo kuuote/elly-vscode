@@ -19,5 +19,8 @@
         "path": "./themes/elly-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^1.97.0"
   }
 }
